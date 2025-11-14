@@ -7,7 +7,7 @@ The codes are based on the python package [Ncpol2sdpa](https://github.com/peterw
 
 - **`1sDIQKD_BB84meas.py`**  
   Computes lower bounds on the asymptotic key rates of one-sided device-independent (1SDI) quantum key distribution (QKD) protocol using BB84 measurement settings, where each party performs Pauli-Z and Pauli-X measurements on his/her share of a depolarized Bell state.
-  Reproduces Figure 2(a) of the paper.
+  Reproduces **Figure 2(a)** of the paper.
 
 - **`1sDIQCKA_6statemeas.py`**  
   Computes lower bounds on the asymptotic key rates of 1SDI quantum conference key agreement (QCKA) protocol with six-state measurement settings,  where each party measures Pauli X, Y and Z on his/her share of a depolarized GHZ state. 
